@@ -1,0 +1,48 @@
+---
+---
+
+// @import url("https://fonts.googleapis.com/css?family=Quicksand");
+
+body {
+    background-color: #78B5FF;
+    height: 100%;
+}
+
+div.alto-de-400{
+    height: 400px;
+}
+
+
+#padre
+{
+    position:relative;
+    border: 1px solid black;
+}
+
+#hijo
+{
+    position: absolute;
+    top: 50%;
+    /* adjust top up half the height of a single line */
+    margin-top: -0.5em;
+    /* force content to always be a single line */
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    text-overflow: ellipsis;
+}
+
+
+.font-size-large{
+    font-size: 1.25em;
+}
+
+@media (min-width: 576px){
+    .font-size-sm-normal{
+        font-size: 1em;
+    }
+}
+
+.font-quicksand {
+    font-family: 'Quicksand', Noto, sans-serif
+}
