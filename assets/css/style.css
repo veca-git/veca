@@ -3,13 +3,13 @@
 
 /* // @import url("https://fonts.googleapis.com/css?family=Quicksand"); */
 
+
 body {
     position: relative;
     display: flex;
-    height: 700px;
     align-items: center;
     margin: 0px;
-    margin-bottom: 15;
+
 }
 
 .font-size-large{
@@ -26,4 +26,5 @@ body {
         font-size: 1em;
     }
 }*/
+
 
