@@ -14,12 +14,34 @@ body {
     height: 100%;
 }
 
+.w-400px{
+    width: 400px;
+}
+
 .font-size-large{
     font-size: 1.25em;
 }
 
 .font-quicksand {
     font-family: 'Quicksand', Noto, sans-serif
+}
+
+.font-poiret {
+    font-family: 'Poiret One', cursive;
+    font-size: 1.5em;
+    line-height: 1.7rem;
+    color: #B8B3A7;
+}
+
+span.color-black {
+    font-family: 'Poiret One', cursive;
+    color: black;
+}
+
+.font-poiret-l {
+    font-family: 'Poiret One', cursive;
+    font-size: 1.6em;
+    line-height: 1.5rem
 }
 
 /*
