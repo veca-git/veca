@@ -3,16 +3,46 @@ layout: default
 title: pasarela
 ---
 
-<section id="titulo" class="container d-flex justify-content-center font-quicksand">
+<div id="banner" class="container d-flex justify-content-center font-quicksand mt-4">
 
 	<div class="d-flex flex-column w-400px">
 		<div class="p-2 text-center">
 			<img src="{{ '/assets/images/pasarela_logo.svg' | relative_url }}" class="img-fluid logo-isotipo">
 		</div>
 
-		<div class="d-flex justify-content-center font-poiret">
+		<div class="container justify-content-center font-poiret mt-4">
+		  
+		  <div class="row">
 
-			<div class="p-2 text-right flex-fill w-50 font-poiret-l">
+		    <div class="col-sm p-2 font-poiret-l A-justificado">
+		   				<span>mide</span><br>
+						<span style="color: black">dólares</span><br>
+						<br>
+						<span>envía</span><br>
+						<span style="color: black">bolívares</span><br>
+						<br>
+						<span>recibe</span><br>
+						<span style="color: black">bitcoins</span>   
+		    			</div>
+
+		    <div class="col-sm p-2 mt-3 B-justificado">
+				      	<span class="mi-gris">
+				      		Activa tu ID y<br>
+				      		envía monedas<br>
+				      		blockchain con<br>
+				      		cupos de hasta<br>
+				      		5MIL dólares<br>
+				      		usando bolívares
+				      	</span>
+		    			</div>
+		 	</div>
+
+		</div>
+
+<!--
+		<div class="row d-flex justify-content-center font-poiret">
+
+			<div class="col-sm p-2 text-right flex-fill w-50 font-poiret-l">
 				<span>mide</span><br>
 				<span style="color: black">dólares</span><br>
 				<br>
@@ -23,15 +53,25 @@ title: pasarela
 				<span style="color: black">bitcoins</span>
 			</div>
 
-			<div class="p-2 flex-fill w-50 mt-3">
-		      	<span style="color: black">Activa</span> tu <span style="color: black">ID</span> de pasarela y envía <span style="color: black">bitcoins</span> con cupos de hasta 5Mil <span style="color: black">dólares</span> usando <span style="color: black">bolívares</span>
+			<div class="col-sm p-2 flex-fill w-50 mt-3">
+				      	<span style="color: black">Activa</span> tu <span style="color: black">ID</span> y <br>envía <span style="color: black">monedas <br> blockchain</span> con<br> cupos de hasta<br> 5MIL <span style="color: black">dólares</span><br> usando <span style="color: black">bolívares</span>
 		    </div>
 
 		</div>
+-->
+		<div class="p-2 text-center mt-4">
+			<img src="{{ '/assets/images/logo.svg' | relative_url }}" class="img-fluid logo-isotipo">
+		</div>
 
-		<div class="p-2 text-center">
-			<img src="{{ '/assets/images/propaganda.svg' | relative_url }}" class="img-fluid logo-isotipo">
+		<div class="mt-4 text-center">
+
+			<a 		class="btn btn-outline-dark"
+					href="https://docs.google.com/forms/d/e/1FAIpQLSfJ9eOgXDNNqP2MYnajwO4dbcblejLSheNeDUB8lYQpn6D-fw/viewform" 
+					role="button"
+					aria-pressed="true">
+					Solicitar ID
+					</a>
 		</div>
 	</div>
 
-</section>
+</div>
