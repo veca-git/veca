@@ -56,6 +56,18 @@ span.color-black {
     color: #000000;
 }
 
+.mi-blanco {
+    color: #FFFFFF;
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+.mi-azul-diggi-fondo {
+    background-color: #26ADE4;
+}
+
 @media screen and (max-width: 590px) {
     .A-justificado {
         text-align: center;
