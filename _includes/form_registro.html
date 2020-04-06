@@ -1,0 +1,154 @@
+<form>
+
+	<div class="p-2 text-center mt-4">
+		<img src="{{ '/assets/images/pasarela_logo.svg' | relative_url }}" class="img-fluid logo-isotipo">
+	</div>
+
+	<label class="mt-4">DEL SOLICITANTE</label>
+	<div class="form-group">
+		<label for="email">Correo</label>
+		<input type="email" class="form-control" id="email" aria-descibedby="emailHelp" placeholder="">
+		<small id="emailHelp" class="form-text text-muted mb-2"></small>
+
+		<label for="alias">Alias de Telegram</label>
+		<input type="text" class="form-control" id="alias" aria-descibedby="aliasHelp" placeholder="" required pattern="[A-Za-z0-9_]{5,30}$">
+		<small id="aliasHelp" class="form-text text-muted mb-2">Alias = Nombre de Usuario. Colocarlo SIN la arroba (@)</small>
+
+		<label for="celular">Número de Celular</label>
+		<input type="tel" class="form-control" id="celular" aria-descibedby="celularHelp" placeholder="" required pattern="^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$">
+		<small id="celularHelp" class="form-text text-muted">Sólo numeros, sin separadores ni espacios</small>
+	</div>
+
+	<label class="mt-4">DE LA PERSONA NATURAL</label>
+	<div class="form-group">
+		<label for="example">Nombre y Apellido</label>
+		<input type="email" class="form-control" id="example" aria-descibedby="emailHelp" placeholder="">
+		<small id="emailHelp" class="form-text text-muted mb-2"></small>
+
+		<label for="example2">Tipo de Documento</label>
+	    <select class="form-control" id="exampleFormControlSelect1">
+	      <option>Nacional</option>
+	      <option>Pásaporte</option>
+	    </select>
+		<small id="emailHelp2" class="form-text text-muted mb-2"></small>
+
+		<label for="example2">País del Documento</label>
+	    <select class="form-control" id="exampleFormControlSelect1">
+	      <option>Venezuela</option>
+	    </select>
+		<small id="emailHelp2" class="form-text text-muted mb-2"></small>
+
+		<label for="example2">Número de Documento</label>
+		<input type="email" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted mb-2"></small>
+
+		<label for="example">Selfie</label>
+		<input type="file" class="form-control" id="example" aria-descibedby="emailHelp" placeholder="">
+		<small id="emailHelp" class="form-text text-muted mb-2">Foto de su rostro</small>
+
+		<label for="example2">Selfie con el Docuemento</label>
+		<input type="file" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted mb-2">Foto sosteniendo el documento al lado del rostro</small>
+
+		<label for="example2">Foto del Documento</label>
+		<input type="file" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted"></small>
+	</div>
+
+	<label class="mt-4">DE LA PERSONA JURIDICA</label>
+	<div class="form-group">
+		<label for="example">Nombre o Razón Social</label>
+		<input type="email" class="form-control" id="example" aria-descibedby="emailHelp" placeholder="">
+		<small id="emailHelp" class="form-text text-muted mb-2"></small>
+
+		<label for="example2">Número Fiscal</label>
+		<input type="email" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted mb-2">RIF sin separadores ni puntos JXXXXXXXXX</small>
+
+		<label for="example2">Tipo de Entidad</label>
+
+	    <select class="form-control" id="exampleFormControlSelect1">
+	      <option>Compañia Anónomia (CA)</option>
+	      <option>Sociedad Anónima (SA)</option>
+	      <option>Sociedad de Responsabilidad Limitada (SRL)</option>
+	      <option>Firma Personal</option>
+	    </select>
+
+		<small id="emailHelp2" class="form-text text-muted mb-2"></small>
+
+		<label for="example2">Correo</label>
+		<input type="email" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted mb-2"></small>
+
+		<label for="example2">Numero de Telefono</label>
+		<input type="tel" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted mb-2">Sólo numeros, sin separadores ni espacios</small>
+
+		<label for="example">1era Foto de Documento Mercantil</label>
+		<input type="file" class="form-control" id="example" aria-descibedby="emailHelp" placeholder="">
+		<small id="emailHelp" class="form-text text-muted mb-2">De la Portada del Documento, donde aparece el número del folio</small>
+
+		<label for="example2">2da Foto de Documento Mercantil</label>
+		<input type="file" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted mb-2">De la primea página del Documento, siguiente a portada</small>
+
+		<label for="example2">3era Foto de Documento Mercantil</label>
+		<input type="file" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted">De la página donde aparece el representatne legal</small>
+	</div>
+
+	<label class="mt-4">DE LA MONEDA LOCAL</label>
+	<div class="form-group">
+		<label for="example">Banco del Solicitante</label>
+	    <select class="form-control" id="exampleFormControlSelect1">
+	      <option>Banesco</option>
+	      <option>Mercantil</option>
+	      <option>Venezuela</option>
+	      <option>Bicentenario</option>
+	      <option>Provincial</option>
+	      <option>Del Caribe</option>
+	      <option>Del Tesoro</option>
+	      <option>Del Sur</option>
+	      <option>Caroni</option>
+	      <option>100% Banco</option>
+	      <option>Activo</option>
+	      <option>Agricola</option>
+	      <option>Exterior</option>
+	    </select>
+		<small id="emailHelp" class="form-text text-muted mb-2"></small>
+
+		<label for="example2">Número de Cuenta</label>
+		<input type="email" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted">Los 20 números sin separadores</small>
+	</div>
+
+	<label class="mt-4">DE LA MONEDA BLOCKCHAIN</label>
+	<div class="form-group">
+		<label for="example">Tipo</label>
+	    <select class="form-control" id="exampleFormControlSelect1">
+	      <option>Bitcoin (BTC)</option>
+	      <option>Dolar ** (USDC)</option>
+	    </select>
+		<small id="emailHelp" class="form-text text-muted"></small>
+
+		<label for="example2">Dirección Pública</label>
+		<input type="email" class="form-control" id="example2" aria-descibedby="emailHelp2" placeholder="">
+		<small id="emailHelp2" class="form-text text-muted">Lugar donde se depostian las monedas</small>
+	</div>
+
+	<label class="mt-4">DE LOS TERMINOS Y CONDICIONES</label>
+	<div class="form-group w-400px">
+		<label for="example">Declara usted que leyó y entendió los términos y condiciones del servicio descrito con detalle en el enlace <a href="https://veca.io/pasarela/terminosycondiciones">Términos y Condiciones</a> y que los acepta?</label>
+		<div class="form-check">
+		  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="true">
+		  <label class="form-check-label" for="inlineRadio1">Si, acepto los términos y condiciones.</label>
+		</div>
+		<small id="emailHelp" class="form-text text-muted"></small>
+	</div>
+	<button type="submit" class="btn btn-outline-dark self">Solicitar ID</button>
+
+	<div>
+		<p class="mb-4 text-center"></p>
+	</div>
+</form>
+
