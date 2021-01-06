@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a"
+			],
+			[
+				"Per",
+				"PersonaN"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"es",
+				"es_juridico"
+			],
+			[
+				"juridico",
+				"juridico_nombre"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"do",
+				"documentos_id"
+			],
+			[
+				"r",
+				"regex"
+			],
+			[
+				"se",
+				"Select"
+			],
+			[
+				"Ch",
+				"ChoiceField"
+			],
+			[
+				"co",
+				"codigo"
+			],
+			[
+				"M",
+				"ManyToManyField"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"telegram",
+				"telegram_alias"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"my",
+				"my_form_pn"
+			],
+			[
+				"loa",
+				"loader"
+			],
+			[
+				"Ra",
+				"RawPersonaJ"
+			],
+			[
+				"cho",
+				"ChoiceField"
+			],
+			[
+				"Persona",
+				"PersonaJ"
+			],
+			[
+				"fo",
+				"formset_factory"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"Raw",
+				"RawRegistroForm"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"dolar",
+				"dolartoday"
+			],
+			[
+				"mon",
+				"moneda_emisor"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"Pais",
+				"PaisForm"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Pai",
+				"PaisForm"
+			],
+			[
+				"Pa",
+				"PaisForm"
+			],
+			[
+				"pas",
+				"pasarela"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"P",
+				"Pais"
+			],
+			[
+				"ju",
+				"juridico_foto_registro_1"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tex",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fle",
+				"flex-row"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"alig",
+				"align-items-center"
+			],
+			[
+				"i",
+				"align-items-center"
+			],
+			[
+				"h",
+				"h-100"
+			],
+			[
+				"heig",
+				"max-height\tproperty"
+			],
+			[
+				"col",
+				"col-sm"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"list-",
+				"list-group-item"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"text-",
+				"text-secondary"
+			],
+			[
+				"align",
+				"align-self-end"
+			],
+			[
+				"mt",
+				"mt-1"
+			],
+			[
+				"borde",
+				"border-primary"
+			],
+			[
+				"hea",
+				"headingOne"
+			],
+			[
+				"border",
+				"border-0"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"text-c",
+				"text-secondary"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"grid",
+				"grid-column\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"b",
+				"bottom\tproperty"
+			],
+			[
+				"grid-col",
+				"grid-column\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"grid-c",
+				"grid-column\tproperty"
+			],
+			[
+				"siz",
+				"box-sizing\tproperty"
+			],
+			[
+				"grid-ro",
+				"grid-row-start\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"inlne",
+				"inline-grid\tdisplay"
+			],
+			[
+				"pre",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"p",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"wo",
+				"word-break\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"grid-temple",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"fot",
+				"font-weight\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"gr",
+				"grid-column\tproperty"
+			],
+			[
+				"nombre_r",
+				"nombre_representante"
+			],
+			[
+				"suje",
+				"sujeto_suid"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"excep",
+				"except"
+			],
+			[
+				"_",
+				"_settings"
+			],
+			[
+				"con",
+				"conectado"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"t",
+				"try\tTry/Except"
+			],
+			[
+				"ope",
+				"operacion"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"concepto",
+				"concepto"
+			],
+			[
+				"er",
+				"Error"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"hori",
+				"Horizonte"
+			],
+			[
+				"inter",
+				"interfaceEncontrada"
+			],
+			[
+				"crear",
+				"crearDiggi"
+			],
+			[
+				"crea",
+				"crearPi"
+			],
+			[
+				"mi",
+				"miOtra"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Controli",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carlosveca/rouge-protocol-solidity/app.js",
+		"/Users/carlosveca/dcode/veca/app/templates/app/forms/registro.jinja",
+		"/Users/carlosveca/dcode/veca/app/core/data.py",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/formulario.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/forms/validacion.jinja",
+		"/Users/carlosveca/dcode/veca/app/admin.py",
+		"/Users/carlosveca/dcode/veca/app/templates/app/forms/registro_pasarela.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/email_registro.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/forms/taquilla.jinja",
+		"/Users/carlosveca/dcode/veca/app/models.py",
+		"/Users/carlosveca/dcode/veca/app/forms.py",
+		"/Users/carlosveca/dcode/veca/veca/jinja2.py",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/head.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/pasarela.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/home.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/forms/pais_form.jinja",
+		"/Users/carlosveca/dcode/veca/veca/settings.py",
+		"/Users/carlosveca/dcode/veca/app/templates/app/gracias.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/clock.jinja",
+		"/Users/carlosveca/dcode/veca/app/urls.py",
+		"/Users/carlosveca/dcode/veca/app/templates/app/estructura.jinja",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/email_registro.html",
+		"/Users/carlosveca/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/carlosveca/dcode/veca/assets/app/css/style.css",
+		"/Users/carlosveca/dcode/veca/assets/app/scripts/clock.js",
+		"/Users/carlosveca/dcode/veca/assets/app/css/clock.css",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/foot.jinja",
+		"/Users/carlosveca/dcode/veca/app/views.py",
+		"/Users/carlosveca/dcode/veca/assets/app/images/mano_taquilla2.svg",
+		"/Users/carlosveca/dcode/veca/app/templates/app/forms/taquilla.html",
+		"/Users/carlosveca/dcode/veca/assets/app/images/mano_taquilla.svg",
+		"/Users/carlosveca/dcode/veca/app/templates/app/forms/pais_form.html",
+		"/Users/carlosveca/dcode/veca/app/templates/app/home.html",
+		"/Users/carlosveca/dcode/veca/app/templates/app/estructura.html",
+		"/Users/carlosveca/dcode/veca/veca/urls.py",
+		"/Users/carlosveca/dcode/veca/app/templates/app/pasarela.html",
+		"/Users/carlosveca/dcode/veca/app/templates/app/registro.html",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/head.html",
+		"/Users/carlosveca/dcode/veca/app/templates/app/includes/foot.html",
+		"/Users/carlosveca/dcode/veca/veca/jinja2-veca.py",
+		"/Users/carlosveca/dcode/veca/jinja2.py",
+		"/Users/carlosveca/dcode/veca/app/jinja2.py",
+		"/Users/carlosveca/dcode/veca/app/template/app/home.html",
+		"/Users/carlosveca/dcode/veca/app/template/app/header.html",
+		"/Users/carlosveca/dcode/veca/app/header.html",
+		"/Users/carlosveca/code/veca/pasarela/index.html",
+		"/Users/carlosveca/code/veca/pasarela/terminosycondiciones/index.html",
+		"/Users/carlosveca/code/veca/_includes/footer.html",
+		"/Users/carlosveca/code/veca/assets/css/style.css",
+		"/Users/carlosveca/code/veca/_includes/form_registro.html",
+		"/Users/carlosveca/code/veca/_includes/head.html",
+		"/Users/carlosveca/code/veca/pasarela/registro.html",
+		"/Users/carlosveca/code/veca/index.html",
+		"/Users/carlosveca/code/veca/assets/images/pasarela_logo.svg",
+		"/Users/carlosveca/code/veca/assets/images/logo.svg",
+		"/Users/carlosveca/code/veca/taquilla/index.html",
+		"/Users/carlosveca/code/veca/pasarela/terminosycondicones/index.html",
+		"/Users/carlosveca/code/veca/_includes/head-con-redireccion.html",
+		"/Users/carlosveca/code/veca/_layouts/default-con-redireccion.html",
+		"/Users/carlosveca/code/veca/assets/images/propaganda.svg",
+		"/Users/carlosveca/Desktop/Web pasarela.svg",
+		"/Users/carlosveca/code/diggi/pasarela/urls.py",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/templates/noticias.html",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/templates/home.html",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/templates/header_menu.html",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/urls.py",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/templates/default-modificado.html",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/templates/404.html",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/views.py",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/static/style.css",
+		"/Users/carlosveca/code/djangoproject/traduce/settings.py",
+		"/Users/carlosveca/code/djangoproject/traduce/wsgi.py",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/apps.py",
+		"/Users/carlosveca/code/djangoproject/manage.py",
+		"/Users/carlosveca/code/djangoproject/servidor/settings.py",
+		"/Users/carlosveca/code/djangoproject/fedeindustria/templates/header.html",
+		"/Users/carlosveca/code/djangoproject/traduce/urls.py",
+		"/Users/carlosveca/code/djangoproject/pages/urls.py",
+		"/Users/carlosveca/code/djangoproject/pages/views.py",
+		"/Users/carlosveca/code/djangoproject/pages/templates/fedeindustria/home.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/fedeindustria/header.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/menu_perfil.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/home_perfil.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/mercado_ambito.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/exchange_generate_addresses.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/accept_contract.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/exchange_home.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/wallet.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/tools.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/indice.html",
+		"/Users/carlosveca/Google Drive/diggi estudio/traduce/web/index.html",
+		"/Users/carlosveca/code/djangoproject/pages/templates/generadorIndice.html",
+		"/Users/carlosveca/Google Drive/diggi estudio/traduce/web/estilo.css",
+		"/Users/carlosveca/Google Drive/diggi estudio/Fedeindustria/web/fedeindustria.css",
+		"/Users/carlosveca/Google Drive/diggi estudio/Fedeindustria/web/index2.html",
+		"/Users/carlosveca/repo/dg_docs2/diggi_modelo.md",
+		"/Users/carlosveca/Desktop/Datos.json",
+		"/Users/carlosveca/Desktop/Datos",
+		"/Users/carlosveca/Dropbox/VECA/traduce/Traduce v1.0/efectos.html",
+		"/Users/carlosveca/repo/dg_atom/patrones.py",
+		"/Users/carlosveca/repo/dg_docs/diggi.objetivos.md",
+		"/Users/carlosveca/repo/dg_docs/diggi_filosofia.md",
+		"/Users/carlosveca/Dropbox/VECA/traduce/patron_1.svg",
+		"/Users/carlosveca/repo/dg_atom/atom.py",
+		"/Users/carlosveca/repo/dg_atom/nodoNeo",
+		"/Users/carlosveca/Desktop/Captura de pantalla 2016-04-10 a las 12.07.31 p.m..png",
+		"/Users/carlosveca/python/lib/python3.5/site-packages/graph_db/driver/orientdb/vertex.py",
+		"/Users/carlosveca/repo/dg_docs2/diggi_filosofia.md",
+		"/Users/carlosveca/repo/dg_docs/diggi_modelo.md",
+		"/Users/carlosveca/python/lib/python3.5/site-packages/graph_db/__init__.py",
+		"/Users/carlosveca/repo/diggi-v1/api/diggi.py",
+		"/Users/carlosveca/repo/diggi-v1/server.py",
+		"/Users/carlosveca/repo/diggi-v1/README.md",
+		"/Users/carlosveca/desarrollo/dg_docs/diggi_filosofia.md",
+		"/Users/carlosveca/desarrollo/dg_docs/diggi_directivas.md",
+		"/Users/carlosveca/desarrollo/dg_documentacion/diggi_directivas.md",
+		"/Users/carlosveca/desarrollo/dg_documentacion/diggi_filosofia.mdown",
+		"/Users/carlosveca/desarrollo/dg_documentacion/diggi_directivas.mdown",
+		"/Users/carlosveca/desarrollo/docs/source/filosofia_diggi.rst",
+		"/Users/carlosveca/desarrollo/docs/source/filosofia_diggi.md",
+		"/Users/carlosveca/repo/docs/source/atom.rst",
+		"/Users/carlosveca/repo/pattern/pattern/text/__init__.py",
+		"/Users/carlosveca/repo/pattern/setup.py",
+		"/Users/carlosveca/repo/nltk_data/corpora/Wiki/tagged.es/spanishEtiquetado_10000_15000",
+		"/Users/carlosveca/repo/docs/source/rstChuleta.rst",
+		"/Users/carlosveca/repo/docs/source/filosofia_diggi.rst",
+		"/Users/carlosveca/repo/docs/source/index.rst",
+		"/Users/carlosveca/repo/forma/docs/source/index.rst"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1533,
+								1496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "veca.io.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
