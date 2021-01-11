@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '8tnm-=^vkgrzcix5h#axh1#*t7s+ljf&mycppb9rnqorr5k#^@'
+SECRET_KEY = '#o=kbrp7gwptnh#)4j2yzmhhg=g1m@gc_ad8m@jubd!$^a1%l0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -53,8 +53,16 @@ ROOT_URLCONF = 'core.urls'
 
 TEMPLATES = [
     {
+        'BACKEND': 'django.template.backends.jinja2.Jinja2',
+        'DIRS': [
+            '/static/template/jinja2',
+        ],
+    },
+    {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            '/static/template/django',
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

@@ -23,7 +23,15 @@ body {
 }
 
 .font-quicksand {
-    font-family: 'Quicksand', Noto, sans-serif
+    font-family: 'Quicksand', Noto, sans-serif;
+}
+
+.font-amiri {
+    font-family: 'Amiri', serif;
+}
+
+.no-borders {
+    border: 0px solid #90bade;
 }
 
 .font-poiret {
